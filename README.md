@@ -1,5 +1,4 @@
 # Rust-Notepad
-# Rust Notepad
 
 Rust Notepad, basit bir metin düzenleyici uygulamasıdır. Kullanıcılar, metin dosyaları oluşturabilir, düzenleyebilir ve açabilirler.
 
